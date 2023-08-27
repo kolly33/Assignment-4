@@ -1,0 +1,22 @@
+[
+    {
+"username": "Bahiru",
+"password": "bash111",
+"api_key": "Bshiru_bash111",
+"user type": "admin"
+},
+
+{
+"username":"kunle",
+"password":"kunle211",
+"api_key":"kunle_bash111",
+"user type":"user"
+},
+
+{
+"username":"Ashiru",
+"password":"21100",
+"api_key":"ashiru_111",
+"user type":"user"
+}
+]
